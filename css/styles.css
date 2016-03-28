@@ -1,0 +1,67 @@
+body {
+  background-color: #E0E0E0;
+  margin: 0px;
+  padding: 0px;
+}
+
+#header-nav {
+  border-radius: 0;
+}
+
+.navbar-brand { 
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  padding-right: 30px
+}
+
+.text-center h1 { /*Our Menu*/
+  font-size: 1.7em;
+  margin-top: 80px;
+}
+.menu-description h3{ /*Chicken*/
+  padding-top: 5px;
+  font-size: 1.3em;
+  margin: 0px;
+  padding: 5px;
+}
+.menu-description{
+  background: #C0C0C0 ;
+  border: 1px black solid;
+  margin: 10px;
+}
+.menu-description p{
+  padding: 10px;
+  margin: 0px;
+}
+#nav-list {
+  margin: 0;
+  padding: 0px;
+  width: 100%;
+}
+#header-hav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-collapse {
+  padding: 0px;
+}
+
+#nav-list a{
+  border: 1px solid black;
+}
+
+.container {
+  width: 100%;
+  margin: 0px;
+}
